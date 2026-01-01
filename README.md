@@ -11,9 +11,9 @@
 ---
 
 ## 🧠 About
-- Full Stack Developer with a strong focus on **scalable systems**
+- MERN Stack Developer with a strong focus on **scalable systems**
 - Interested in **AI/ML**, data-driven applications, and real-world problem solving
-- Enjoys building end-to-end products and clean architectures
+- I enjoy building end-to-end products and clean architectures
 
 ---
 
@@ -31,9 +31,11 @@
 ---
 
 ## 📌 Featured Work
-- 🚗 **Road Trip Itinerary Generator** — MERN-based planner with dynamic routing  
-- 📈 **Stock Portfolio Tracker** — Real-time portfolio analysis & visualization  
-- ♻ **FoodBridge** — Food waste reduction & NGO coordination platform  
+- **Fin-Track** — Real-time portfolio analysis & visualization  
+- **Nourishnet** — Food waste reduction & NGO coordination platform
+- **GPU-Temperature-Prediction** - A DL based temperature prediction algorithm.
+- **DTU-Alumni-Portal** - Serving college alumni contact, donations and achievements.
+- **Road Trip Itinerary Generator** — MERN-based planner with dynamic routing.
 
 ---
 
