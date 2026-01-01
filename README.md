@@ -51,16 +51,16 @@
 ---
 
 ## 🐍 Contribution Flow
-![snake animation](https://github.com/vtyagi26/vtyagi26/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/vtyagi26/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🤝 Connect
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/vaibhav-tyagi-793937280/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:vaibhavtyagi9981@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
