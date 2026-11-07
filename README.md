@@ -9,7 +9,7 @@
 ---
 
 ## 🧠 About
-Hello, I am Vaibhav Tyagi , a pre-final year student studying Mathematics and Computing from Delhi Technological University (DTU-DCE).  
+Hello, I am Vaibhav Tyagi , a final year student studying Mathematics and Computing from Delhi Technological University (DTU-DCE).  
 I have built some in-depth projects honing my skills in MERN - stack development and Machine Learning and slowly pacing myself into the field of agentic-Ai systems.  
 I am still learning and building, so keep checking out the pinned projects for the latest updates!
 
